@@ -13,7 +13,7 @@ public class Ejercicio11 {
         var caracter = sc.next();
         int i;
         int j;
-
+int numero = 1;
         for (j = 1; j <= numero; j++) {
             System.out.println("");
             for (i = 1; i <= numero; i++) {
